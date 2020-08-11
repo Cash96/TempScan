@@ -1,0 +1,4 @@
+0 HP_Correct
+1 HP_turn_left
+2 HP_turn_right
+3 HP_too_far
